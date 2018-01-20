@@ -1,2 +1,2 @@
 console.log(name)
-car index = require(".index.js")
+var index = require(".index.js")
